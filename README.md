@@ -1,4 +1,4 @@
-# Sistema-De-Agendamento
+# Sistema-De-Agendamento-Para-Consultório-Odontológico
 
 O Sistema de Agendamento Online tem como objetivo facilitar o agendamento de horários entre clientes e prestadores de serviço.
 O sistema permite cadastrar usuários, serviços e horários disponíveis, além de realizar, consultar e cancelar agendamentos de forma prática e rápida.
